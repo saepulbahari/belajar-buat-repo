@@ -4,3 +4,19 @@ npm init - y > default
 git remote add origin https://github.com/saepulbahari/belajar-buat-repo.git > remote dari github
 git add . > prepare semua file yang diupdate untuk diupload
 git commit -m "tugas challenge 1"
+git branch -M main
+git push -u origin main atau main diganti nama branch
+
+git push -u origin nama branch
+
+
+
+
+git clone (code github) > download file repo orang lain
+
+git checkout -b "ft-revise-form-input"
+
+git branch (cek)
+
+compare and full request
+
