@@ -1,0 +1,5 @@
+- git init > inisialisasi folder github
+npm init > menjelaskan projek kita pakai
+npm init - y > default
+git remote add origin https://github.com/saepulbahari/belajar-buat-repo.git > remote dari github
+git add . > prepare semua file yang diupdate untuk diupload
